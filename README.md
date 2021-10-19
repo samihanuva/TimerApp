@@ -1,6 +1,7 @@
 # timer_app
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/62112254/137982816-5517e312-c3a9-44de-b212-fee2546f5930.png)
 
 ## Getting Started
 
